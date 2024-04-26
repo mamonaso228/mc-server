@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:thick_wood_the_dead_forest_classic_nightstand"
+  }
+}

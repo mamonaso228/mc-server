@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "distant_worlds:garsale_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:garsale_distant_worlds_log_stool"
+  }
+}

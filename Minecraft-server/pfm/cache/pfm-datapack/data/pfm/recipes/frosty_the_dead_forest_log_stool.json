@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "the_dead_forest:frosty_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:frosty_the_dead_forest_log_stool"
+  }
+}

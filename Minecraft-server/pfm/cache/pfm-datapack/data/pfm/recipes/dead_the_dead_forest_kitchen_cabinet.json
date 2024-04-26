@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:dead_the_dead_forest_kitchen_cabinet"
+  }
+}

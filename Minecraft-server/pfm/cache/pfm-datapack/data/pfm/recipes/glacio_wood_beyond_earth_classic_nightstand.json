@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:glacio_wood_beyond_earth_classic_nightstand"
+  }
+}

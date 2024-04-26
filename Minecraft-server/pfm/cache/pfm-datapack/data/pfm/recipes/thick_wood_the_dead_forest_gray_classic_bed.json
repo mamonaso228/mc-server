@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "the_dead_forest:thick_wood_planks"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_planks"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_planks"
+    },
+    {
+      "item": "minecraft:gray_bed"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_fence"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:thick_wood_the_dead_forest_gray_classic_bed"
+  }
+}

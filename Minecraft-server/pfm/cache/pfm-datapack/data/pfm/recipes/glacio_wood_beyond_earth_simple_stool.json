@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_planks"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_planks"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:glacio_wood_beyond_earth_simple_stool"
+  }
+}

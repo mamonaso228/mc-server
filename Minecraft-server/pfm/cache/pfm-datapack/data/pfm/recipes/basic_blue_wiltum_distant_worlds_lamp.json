@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_wool"
+    },
+    {
+      "item": "minecraft:blue_wool"
+    },
+    {
+      "item": "minecraft:blue_wool"
+    },
+    {
+      "item": "distant_worlds:stripped_wiltum_log"
+    },
+    {
+      "item": "distant_worlds:stripped_wiltum_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "blue",
+        "variant": "distant_worlds:wiltum"
+      }
+    }
+  }
+}

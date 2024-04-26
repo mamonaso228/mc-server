@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_planks"
+    },
+    {
+      "item": "duneons:burned_planks"
+    },
+    {
+      "item": "duneons:burned_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:burned_duneons_table_classic"
+  }
+}

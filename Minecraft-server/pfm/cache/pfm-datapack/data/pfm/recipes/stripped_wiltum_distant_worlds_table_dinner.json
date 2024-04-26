@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "distant_worlds:wiltum_planks"
+    },
+    {
+      "item": "distant_worlds:wiltum_planks"
+    },
+    {
+      "item": "distant_worlds:wiltum_planks"
+    },
+    {
+      "item": "distant_worlds:stripped_wiltum_log"
+    },
+    {
+      "item": "distant_worlds:stripped_wiltum_log"
+    },
+    {
+      "item": "distant_worlds:stripped_wiltum_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_wiltum_distant_worlds_table_dinner"
+  }
+}

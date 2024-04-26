@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "the_dead_forest:stripped_thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:stripped_thick_wood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "light_gray",
+        "variant": "the_dead_forest:thick_wood"
+      }
+    }
+  }
+}

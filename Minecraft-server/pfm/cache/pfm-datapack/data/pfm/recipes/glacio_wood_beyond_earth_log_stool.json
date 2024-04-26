@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:glacio_wood_beyond_earth_log_stool"
+  }
+}

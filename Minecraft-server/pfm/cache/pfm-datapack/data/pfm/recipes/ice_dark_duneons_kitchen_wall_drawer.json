@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:ice_dark_duneons_kitchen_wall_drawer"
+  }
+}

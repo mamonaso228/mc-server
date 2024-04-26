@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "the_dead_forest:thick_wood_planks"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_planks"
+    },
+    {
+      "item": "the_dead_forest:stripped_thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:stripped_thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:stripped_thick_wood_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_thick_wood_the_dead_forest_simple_stool"
+  }
+}

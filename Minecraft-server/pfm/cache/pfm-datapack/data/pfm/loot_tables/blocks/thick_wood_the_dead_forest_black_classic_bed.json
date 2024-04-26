@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "pfm:thick_wood_the_dead_forest_black_classic_bed",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:thick_wood_the_dead_forest_black_classic_bed"
+        }
+      ],
+      "name": "thick_wood_the_dead_forest_black_classic_bed",
+      "rolls": 1.0
+    }
+  ]
+}

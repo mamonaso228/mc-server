@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:garsale_distant_worlds_kitchen_wall_counter"
+  }
+}

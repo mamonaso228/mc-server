@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stripped_thick_wood_the_dead_forest_chair_modern"
+        }
+      ],
+      "name": "stripped_thick_wood_the_dead_forest_chair_modern",
+      "rolls": 1.0
+    }
+  ]
+}

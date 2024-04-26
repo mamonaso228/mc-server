@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "duneons:ice_dark_planks"
+    },
+    {
+      "item": "duneons:ice_dark_planks"
+    },
+    {
+      "item": "duneons:ice_dark_planks"
+    },
+    {
+      "item": "duneons:ice_dark_planks"
+    },
+    {
+      "item": "duneons:ice_dark_planks"
+    },
+    {
+      "item": "minecraft:gray_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:ice_dark_duneons_gray_simple_bed"
+  }
+}

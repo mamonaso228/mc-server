@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "the_dead_forest:dead_log"
+    },
+    {
+      "item": "the_dead_forest:dead_planks"
+    },
+    {
+      "item": "the_dead_forest:dead_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:dead_the_dead_forest_kitchen_sink"
+  }
+}

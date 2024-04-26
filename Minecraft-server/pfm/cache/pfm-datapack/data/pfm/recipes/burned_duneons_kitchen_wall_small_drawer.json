@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:burned_duneons_kitchen_wall_small_drawer"
+  }
+}

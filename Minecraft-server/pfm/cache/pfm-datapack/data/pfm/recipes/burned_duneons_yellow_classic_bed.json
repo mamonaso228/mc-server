@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "duneons:burned_planks"
+    },
+    {
+      "item": "duneons:burned_planks"
+    },
+    {
+      "item": "duneons:burned_planks"
+    },
+    {
+      "item": "minecraft:yellow_bed"
+    },
+    {
+      "item": "duneons:burned_fence"
+    },
+    {
+      "item": "duneons:burned_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:burned_duneons_yellow_classic_bed"
+  }
+}

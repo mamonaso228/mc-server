@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_planks"
+    },
+    {
+      "item": "distant_worlds:garsale_planks"
+    },
+    {
+      "item": "distant_worlds:garsale_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:garsale_distant_worlds_table_dinner"
+  }
+}

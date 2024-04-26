@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "the_dead_forest:frosty_planks"
+    },
+    {
+      "item": "the_dead_forest:frosty_planks"
+    },
+    {
+      "item": "the_dead_forest:frosty_planks"
+    },
+    {
+      "item": "the_dead_forest:frosty_planks"
+    },
+    {
+      "item": "the_dead_forest:frosty_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:frosty_the_dead_forest_magenta_simple_bed"
+  }
+}

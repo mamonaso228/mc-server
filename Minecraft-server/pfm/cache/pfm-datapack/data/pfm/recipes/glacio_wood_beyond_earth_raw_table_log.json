@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:glacio_wood_beyond_earth_raw_table_log"
+  }
+}

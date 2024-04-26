@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "distant_worlds:stripped_garsale_log"
+    },
+    {
+      "item": "distant_worlds:stripped_garsale_log"
+    },
+    {
+      "item": "distant_worlds:stripped_garsale_log"
+    },
+    {
+      "item": "distant_worlds:stripped_garsale_log"
+    },
+    {
+      "item": "distant_worlds:stripped_garsale_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_garsale_distant_worlds_kitchen_wall_small_drawer"
+  }
+}

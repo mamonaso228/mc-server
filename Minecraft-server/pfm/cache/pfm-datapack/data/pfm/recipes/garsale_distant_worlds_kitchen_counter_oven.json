@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_planks"
+    },
+    {
+      "item": "distant_worlds:garsale_planks"
+    },
+    {
+      "item": "distant_worlds:garsale_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:garsale_distant_worlds_kitchen_counter_oven"
+  }
+}

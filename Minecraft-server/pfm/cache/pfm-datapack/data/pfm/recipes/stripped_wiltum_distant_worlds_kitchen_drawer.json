@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "distant_worlds:stripped_wiltum_log"
+    },
+    {
+      "item": "distant_worlds:stripped_wiltum_log"
+    },
+    {
+      "item": "distant_worlds:stripped_wiltum_log"
+    },
+    {
+      "item": "distant_worlds:stripped_wiltum_log"
+    },
+    {
+      "item": "distant_worlds:stripped_wiltum_log"
+    },
+    {
+      "item": "distant_worlds:wiltum_planks"
+    },
+    {
+      "item": "distant_worlds:wiltum_planks"
+    },
+    {
+      "item": "distant_worlds:wiltum_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_wiltum_distant_worlds_kitchen_drawer"
+  }
+}

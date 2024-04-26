@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "distant_worlds:wiltum_log"
+    },
+    {
+      "item": "distant_worlds:wiltum_log"
+    },
+    {
+      "item": "distant_worlds:wiltum_log"
+    },
+    {
+      "item": "distant_worlds:wiltum_planks"
+    },
+    {
+      "item": "distant_worlds:wiltum_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:wiltum_distant_worlds_classic_stool"
+  }
+}

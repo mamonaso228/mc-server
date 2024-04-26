@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "pfm:frosty_the_dead_forest_purple_classic_bed",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:frosty_the_dead_forest_purple_classic_bed"
+        }
+      ],
+      "name": "frosty_the_dead_forest_purple_classic_bed",
+      "rolls": 1.0
+    }
+  ]
+}

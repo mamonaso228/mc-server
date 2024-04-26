@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:thick_wood_the_dead_forest_kitchen_cabinet"
+  }
+}

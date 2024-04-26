@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:blaru_theabyss_kitchen_wall_counter"
+        }
+      ],
+      "name": "blaru_theabyss_kitchen_wall_counter",
+      "rolls": 1.0
+    }
+  ]
+}

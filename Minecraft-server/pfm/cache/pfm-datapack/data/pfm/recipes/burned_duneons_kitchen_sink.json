@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_log"
+    },
+    {
+      "item": "duneons:burned_planks"
+    },
+    {
+      "item": "duneons:burned_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:burned_duneons_kitchen_sink"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "pfm:glacio_wood_beyond_earth_brown_classic_bed",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:glacio_wood_beyond_earth_brown_classic_bed"
+        }
+      ],
+      "name": "glacio_wood_beyond_earth_brown_classic_bed",
+      "rolls": 1.0
+    }
+  ]
+}

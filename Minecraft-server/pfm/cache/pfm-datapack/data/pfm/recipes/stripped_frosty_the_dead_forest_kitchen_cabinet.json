@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "the_dead_forest:stripped_frosty_log"
+    },
+    {
+      "item": "the_dead_forest:stripped_frosty_log"
+    },
+    {
+      "item": "the_dead_forest:stripped_frosty_log"
+    },
+    {
+      "item": "the_dead_forest:stripped_frosty_log"
+    },
+    {
+      "item": "the_dead_forest:stripped_frosty_log"
+    },
+    {
+      "item": "the_dead_forest:stripped_frosty_log"
+    },
+    {
+      "item": "the_dead_forest:stripped_frosty_log"
+    },
+    {
+      "item": "the_dead_forest:stripped_frosty_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_frosty_the_dead_forest_kitchen_cabinet"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    },
+    {
+      "item": "the_dead_forest:thick_wood_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:thick_wood_the_dead_forest_raw_table_log"
+  }
+}

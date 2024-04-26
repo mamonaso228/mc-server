@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ice_dark_duneons_classic_nightstand"
+  }
+}

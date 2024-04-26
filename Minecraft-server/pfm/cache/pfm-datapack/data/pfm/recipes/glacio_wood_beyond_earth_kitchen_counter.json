@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_planks"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_planks"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:glacio_wood_beyond_earth_kitchen_counter"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "beyond_earth:glacio_wood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:glacio_wood_beyond_earth_kitchen_cabinet"
+  }
+}

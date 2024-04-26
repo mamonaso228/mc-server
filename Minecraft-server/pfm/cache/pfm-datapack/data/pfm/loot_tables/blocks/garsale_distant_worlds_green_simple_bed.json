@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "pfm:garsale_distant_worlds_green_simple_bed",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:garsale_distant_worlds_green_simple_bed"
+        }
+      ],
+      "name": "garsale_distant_worlds_green_simple_bed",
+      "rolls": 1.0
+    }
+  ]
+}

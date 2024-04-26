@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "duneons:ice_dark_planks"
+    },
+    {
+      "item": "duneons:ice_dark_planks"
+    },
+    {
+      "item": "duneons:ice_dark_planks"
+    },
+    {
+      "item": "minecraft:green_bed"
+    },
+    {
+      "item": "duneons:ice_dark_fence"
+    },
+    {
+      "item": "duneons:ice_dark_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:ice_dark_duneons_green_classic_bed"
+  }
+}

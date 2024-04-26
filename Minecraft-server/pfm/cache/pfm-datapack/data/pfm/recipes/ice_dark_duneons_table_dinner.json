@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_log"
+    },
+    {
+      "item": "duneons:ice_dark_planks"
+    },
+    {
+      "item": "duneons:ice_dark_planks"
+    },
+    {
+      "item": "duneons:ice_dark_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ice_dark_duneons_table_dinner"
+  }
+}

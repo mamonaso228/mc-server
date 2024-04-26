@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:ice_dark_duneons_classic_stool"
+        }
+      ],
+      "name": "ice_dark_duneons_classic_stool",
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "distant_worlds:stripped_garsale_log"
+    },
+    {
+      "item": "distant_worlds:stripped_garsale_log"
+    },
+    {
+      "item": "distant_worlds:stripped_garsale_log"
+    },
+    {
+      "item": "distant_worlds:stripped_garsale_log"
+    },
+    {
+      "item": "distant_worlds:stripped_garsale_log"
+    },
+    {
+      "item": "distant_worlds:garsale_planks"
+    },
+    {
+      "item": "distant_worlds:garsale_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_garsale_distant_worlds_kitchen_sink"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "distant_worlds:garsale_planks"
+    },
+    {
+      "item": "distant_worlds:garsale_planks"
+    },
+    {
+      "item": "distant_worlds:garsale_planks"
+    },
+    {
+      "item": "distant_worlds:garsale_planks"
+    },
+    {
+      "item": "distant_worlds:garsale_planks"
+    },
+    {
+      "item": "minecraft:white_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:garsale_distant_worlds_white_simple_bed"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "duneons:burned_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:burned_duneons_log_stool"
+  }
+}
